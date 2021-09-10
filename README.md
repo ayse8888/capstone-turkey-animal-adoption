@@ -13,6 +13,8 @@ https://capstone-turkey-animal-adoption.netlify.app/
 - Email js to contact us and adopt pets Functionality
 - Firebase For Database and Local Storage
 - Formik Form Validations
+- i18n (website translation)
+- Jest (for testing)
 - ReactStrap
 - Wordpress Api
 - Google Maps
