@@ -1,3 +1,31 @@
+# About Website
+The purpose of this website was to create a website where you can search pets in need of help. \
+Our mission is helping all dogs and cats who need a home. \
+With our website, we bring people and pets together!
+
+The website is hosted in \
+https://capstone-turkey-animal-adoption.netlify.app/
+
+# Features and Technologies
+- SignUp/Login Functionality
+- Search Pets Functionality
+- Adopt Pets Functionality
+- Email js to contact us and aopt pets Functionality
+- Firebase For Database and Local Storage
+- Formik Form Validations
+- ReactStrap
+- Wordpress Api
+- Google Maps
+- Profile Page
+- Blog Page
+- Resources Page
+- About Page
+- Contact Page
+- Search Page
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
