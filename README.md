@@ -1,5 +1,5 @@
 # About Website
-The purpose of this website was to create a website where you can search pets in need of help. \
+The purpose of this website was to create a platform where you can search pets in need of help. \
 Our mission is helping all dogs and cats who need a home. \
 With our website, we bring people and pets together!
 
